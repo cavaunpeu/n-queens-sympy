@@ -1,3 +1,7 @@
+"""
+The following funtions were provided by the Udacity Artifical Intelligence
+Nanodegree curriculum, Lesson 8 (https://classroom.udacity.com/nanodegrees/nd889/syllabus).
+"""
 
 import matplotlib as mpl
 import matplotlib.pyplot as plt
