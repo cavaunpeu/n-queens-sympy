@@ -1,5 +1,5 @@
 """
-The following funtions were provided by the Udacity Artifical Intelligence
+The following functions were provided by the Udacity Artifical Intelligence
 Nanodegree curriculum, Lesson 8 (https://classroom.udacity.com/nanodegrees/nd889/syllabus).
 """
 
