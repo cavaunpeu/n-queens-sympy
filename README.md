@@ -1,3 +1,3 @@
 This work gives a simple solver for the [N-Queens Problem](https://en.wikipedia.org/wiki/Eight_queens_puzzle). We represent the board as a [constraint satisfaction problem](https://en.wikipedia.org/wiki/Constraint_satisfaction_problem) and find a valid solution using the [backtracking algorithm](https://en.wikipedia.org/wiki/Backtracking). That no two queens can be in the same diagonal, row or column are the constraints to enforce. We represent these constraints in [SymPy](http://www.sympy.org/en/index.html), a light-weight computer algebra system written in Python.
 
-This works builds off of code from [Udacity's Artificial Intelligence Nanodegree](https://github.com/udacity/AIND-Constraint_Satisfaction).
+This works builds off of code from [Udacity's Artificial Intelligence Nanodegree](https://github.com/udacity/AIND-Constraint_Satisfaction) program.
